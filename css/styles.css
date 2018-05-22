@@ -1,7 +1,7 @@
 body{
-  background-image:url(aqua.jpg);
-  background-repeat:round;
-  background-size: cover;
+  background-image:url(jungle.jpg);
+  background-repeat:no-repeat;
+  background-size: cover; 
 }
 
 h1 {
